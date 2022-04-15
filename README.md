@@ -14,4 +14,4 @@ Star Wars a lo largo de todas las historias.
 * Naves espaciales
 * Planetas
 * Películas
-* 
+* Especies
